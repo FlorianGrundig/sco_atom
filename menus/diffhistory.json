@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle diffhistory",
+        "command": "diffhistory:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "diffhistory",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "diffhistory:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

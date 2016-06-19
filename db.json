@@ -1,0 +1,263 @@
+{
+  "changes": [
+    {
+      "timestamp": "2016-06-18T15:22:49.151Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 1
+    },
+    {
+      "timestamp": "2016-06-18T15:23:05.597Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "jkdhfadjskhfdskjahfsdkjafh",
+      "id": 2
+    },
+    {
+      "timestamp": "2016-06-18T15:25:10.064Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "asdasdsd",
+      "id": 3
+    },
+    {
+      "timestamp": "2016-06-18T15:25:15.690Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": " ",
+      "id": 4
+    },
+    {
+      "timestamp": "2016-06-18T15:25:16.474Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "asasdsa",
+      "id": 5
+    },
+    {
+      "timestamp": "2016-06-18T15:25:17.728Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": " scascas",
+      "id": 6
+    },
+    {
+      "timestamp": "2016-06-18T15:29:49.648Z",
+      "newtext": "csad",
+      "id": 7
+    },
+    {
+      "timestamp": "2016-06-18T15:29:49.650Z",
+      "newtext": "csad",
+      "id": 8
+    },
+    {
+      "timestamp": "2016-06-18T15:29:50.266Z",
+      "newtext": "dsa",
+      "id": 9
+    },
+    {
+      "timestamp": "2016-06-18T15:29:50.266Z",
+      "newtext": "dsa",
+      "id": 10
+    },
+    {
+      "timestamp": "2016-06-18T15:30:38.565Z",
+      "path": "/Users/florian/github/diffhistory/lib/diffhistory.js",
+      "newtext": "\n        ",
+      "id": 11
+    },
+    {
+      "timestamp": "2016-06-18T15:30:40.733Z",
+      "path": "/Users/florian/github/diffhistory/lib/diffhistory.js",
+      "newtext": "console.log",
+      "id": 12
+    },
+    {
+      "timestamp": "2016-06-18T15:30:41.735Z",
+      "path": "/Users/florian/github/diffhistory/lib/diffhistory.js",
+      "newtext": "();",
+      "id": 13
+    },
+    {
+      "timestamp": "2016-06-18T15:30:43.208Z",
+      "path": "/Users/florian/github/diffhistory/lib/diffhistory.js",
+      "newtext": "editor",
+      "id": 14
+    },
+    {
+      "timestamp": "2016-06-18T15:31:32.601Z",
+      "path": "/Users/florian/github/diffhistory/lib/diffhistory.js",
+      "newtext": "id",
+      "id": 15
+    },
+    {
+      "timestamp": "2016-06-18T15:31:36.555Z",
+      "path": "/Users/florian/github/diffhistory/lib/diffhistory.js",
+      "newtext": ".id",
+      "id": 16
+    },
+    {
+      "timestamp": "2016-06-18T15:32:07.582Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "asdasd\n",
+      "id": 17
+    },
+    {
+      "timestamp": "2016-06-18T15:32:25.841Z",
+      "newtext": "ascascasc\n",
+      "id": 18
+    },
+    {
+      "timestamp": "2016-06-18T15:32:57.751Z",
+      "path": "/Users/florian/github/diffhistory/bla",
+      "newtext": "sad",
+      "id": 19
+    },
+    {
+      "timestamp": "2016-06-19T11:46:24.609Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "\n",
+      "id": 20
+    },
+    {
+      "timestamp": "2016-06-19T11:46:26.602Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "oder",
+      "id": 21
+    },
+    {
+      "timestamp": "2016-06-19T11:46:27.512Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "\n~/node_modules/json-server/bin/index.js --watch db.json",
+      "id": 22
+    },
+    {
+      "timestamp": "2016-06-19T11:48:23.406Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 23
+    },
+    {
+      "timestamp": "2016-06-19T11:48:23.803Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 24
+    },
+    {
+      "timestamp": "2016-06-19T11:52:20.841Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "wererer\n",
+      "id": 25
+    },
+    {
+      "timestamp": "2016-06-19T11:53:04.120Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 26
+    },
+    {
+      "timestamp": "2016-06-19T11:53:05.151Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "- ",
+      "id": 27
+    },
+    {
+      "timestamp": "2016-06-19T11:53:06.213Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "db.",
+      "id": 28
+    },
+    {
+      "timestamp": "2016-06-19T11:53:08.369Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "json nocht ",
+      "id": 29
+    },
+    {
+      "timestamp": "2016-06-19T11:53:09.336Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 30
+    },
+    {
+      "timestamp": "2016-06-19T11:53:10.996Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "icht gleich",
+      "id": 31
+    },
+    {
+      "timestamp": "2016-06-19T11:53:12.301Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "zeigitg",
+      "id": 32
+    },
+    {
+      "timestamp": "2016-06-19T11:53:13.047Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 33
+    },
+    {
+      "timestamp": "2016-06-19T11:53:15.049Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "tig in atom ",
+      "id": 34
+    },
+    {
+      "timestamp": "2016-06-19T11:53:17.647Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "öffnen sonst ",
+      "id": 35
+    },
+    {
+      "timestamp": "2016-06-19T11:53:26.346Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "infii",
+      "id": 36
+    },
+    {
+      "timestamp": "2016-06-19T11:53:26.816Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "",
+      "id": 37
+    },
+    {
+      "timestamp": "2016-06-19T11:53:27.437Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "nit",
+      "id": 38
+    },
+    {
+      "timestamp": "2016-06-19T11:53:27.766Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "e",
+      "id": 39
+    },
+    {
+      "timestamp": "2016-06-19T11:53:28.928Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": " loop",
+      "id": 40
+    },
+    {
+      "timestamp": "2016-06-19T11:53:29.855Z",
+      "path": "/Users/florian/github/diffhistory/README.md",
+      "newtext": "\n",
+      "id": 41
+    },
+    {
+      "timestamp": "2016-06-19T12:00:04.554Z",
+      "path": "/Users/florian/github/diffhistory/.gitignore",
+      "newtext": ".",
+      "id": 42
+    },
+    {
+      "timestamp": "2016-06-19T12:00:05.247Z",
+      "path": "/Users/florian/github/diffhistory/.gitignore",
+      "newtext": "git",
+      "id": 43
+    },
+    {
+      "timestamp": "2016-06-19T12:00:05.976Z",
+      "path": "/Users/florian/github/diffhistory/.gitignore",
+      "newtext": "\n",
+      "id": 44
+    }
+  ]
+}
